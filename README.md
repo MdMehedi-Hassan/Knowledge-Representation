@@ -1,6 +1,6 @@
 # Knowledge-Representation
 
-# Clue-Style Logical Reasoning Game in Python
+## Clue-Style Logical Reasoning Game in Python
 
 This project demonstrates a *Clue*-style logical deduction game using propositional logic. It employs concepts from AI Knowledge Representation and Logical Reasoning to model and solve the game. The program utilizes a custom `logic.py` module to represent symbols and sentences and performs logical inferences to determine the possible outcomes of the game.
 
